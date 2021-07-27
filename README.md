@@ -1,5 +1,11 @@
-### Hi there 👋
-
+### Hi, I' m Jonathan 👋 👨‍💻
+```js
+const Jonathan = {
+  pronouns: "he" | "him",
+  code: [javascript, java, c#, HTML, CSS]
+  tools: [React, Styled-Components, Matherial-UI, jest, Node]
+ }
+```
 <!--
 **JotaErrE01/JotaErrE01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
