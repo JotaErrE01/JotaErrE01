@@ -2,8 +2,8 @@
 ```js
 const Jonathan = {
   pronouns: "he" | "him",
-  code: [javascript, java, c#, HTML, CSS]
-  tools: [React, Styled-Components, Matherial-UI, jest, Node]
+  code: [javascript, typescript, php, HTML, CSS]
+  tools: [React, Styled-Components, Matherial-UI, jest, Node, express]
  }
 ```
 <!--
