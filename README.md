@@ -3,7 +3,7 @@
 const Jonathan = {
   pronouns: "he" | "him",
   code: [javascript, typescript, php, HTML, CSS]
-  tools: [React, Styled-Components, Matherial-UI, jest, Node, express]
+  tools: [React, Formik, Styled-Components, Matherial-UI, jest, Node, express]
  }
 ```
 <!--
