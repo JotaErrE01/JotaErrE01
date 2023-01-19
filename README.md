@@ -1,4 +1,4 @@
-### Hi, I' m Jonathan 👋 👨‍💻 And here bellow is my Object js :)
+## Hi, I' m Jonathan 👋 👨‍💻 And here bellow is my Object js :)
 ```
 const Jonathan = {
   pronouns: "he" | "him",
@@ -9,7 +9,7 @@ const Jonathan = {
   currectlyLearning: [ Docker, Astro, GraphQL ] // => Astro is like *_*
  }
 ```
-## As you can see I am currently a react developer but I know how make apis from Express, Nestjs and Next.
+### As you can see I am currently a react developer but I know how make apis from Express, Nestjs and Next.
 
 <!--
 **JotaErrE01/JotaErrE01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
