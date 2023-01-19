@@ -1,11 +1,16 @@
-### Hi, I' m Jonathan 👋 👨‍💻
-```js
+### Hi, I' m Jonathan 👋 👨‍💻 And here bellow is my Object js :)
+```
 const Jonathan = {
   pronouns: "he" | "him",
-  code: [javascript, typescript, php, HTML, CSS]
-  tools: [React, Formik, Styled-Components, Matherial-UI, jest, Node, express]
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [Git, UIComponents, jest, Node, Vite, Redux], // => For Redux I prefer use zustand or React Context Api
+  Libraries: [ React ], // => Yeah! React is a Library
+  Frameworks: [ NextJs, Nestjs, Express ],
+  currectlyLearning: [ Docker, Astro, GraphQL ] // => Astro is like *_*
  }
 ```
+## As you can see I am currently a react developer but I know how make apis from Express, Nestjs and Next.
+
 <!--
 **JotaErrE01/JotaErrE01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
