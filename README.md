@@ -1,5 +1,6 @@
 ## Hi, I' m Jonathan 👋 👨‍💻 And here bellow is my Object js :)
-```
+
+```js
 const Jonathan = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS],
